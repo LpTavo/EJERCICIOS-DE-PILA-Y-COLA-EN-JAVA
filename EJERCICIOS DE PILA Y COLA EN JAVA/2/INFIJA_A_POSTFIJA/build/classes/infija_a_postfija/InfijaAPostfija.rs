@@ -1,0 +1,2 @@
+infija_a_postfija.INFIJA_A_POSTFIJA
+InfijaAPostfija
